@@ -12,6 +12,7 @@ class Person {
   $languages;
   $tools;
   $hobbies;
+  $socialNetworks;
   
   ...
 }
